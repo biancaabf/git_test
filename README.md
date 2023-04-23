@@ -1,2 +1,5 @@
 # git_test
-My First GitHub repo!
+My First GitHub repos!
+~$ mkkdir repos
+~$ cd repos/
+~/repos$ 
