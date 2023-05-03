@@ -1,5 +1,4 @@
 # git_test
-My First GitHub repos!
-~$ mkkdir repos
-~$ cd repos/
-~/repos$ 
+My first GitHub repo!
+Hello Odin!
+
